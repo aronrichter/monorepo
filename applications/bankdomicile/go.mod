@@ -1,3 +1,3 @@
-module github.com/aronrcihter/monorepo/bankdomicile
+module github.com/aronrcihter/monorepo/applications/bankdomicile
 
 go 1.22.4
