@@ -1,3 +1,3 @@
-module github.com/aronrcihter/monorepo/libs/client
+module github.com/aronrcihter/monorepo/client
 
 go 1.22.4
