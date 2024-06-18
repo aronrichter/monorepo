@@ -1,6 +1,6 @@
 package usermetrics
 
-import "github.com/aronrcihter/monorepo/client"
+import "github.com/aronrcihter/monorepo/libs/client"
 
 type Client struct {
 	c client.Client
